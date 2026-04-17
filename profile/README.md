@@ -1,6 +1,6 @@
 # Welcome to CYROCK AI
 
-We build cutting-edge AI-powered libraries and tools for developers.
+We build cutting-edge AI libraries and tools for developers and enterprises.
 
 ---
 
